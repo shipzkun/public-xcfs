@@ -16,4 +16,6 @@ This file uses the following images:
 - [Red-footed Booby, Brown morph](https://commons.wikimedia.org/wiki/File:Male_Gal%C3%A1pagos_red-footed_booby.jpg) by Charles J. Sharp, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons
   - [Wayback Machine version](http://web.archive.org/web/20220529130350/https://commons.wikimedia.org/wiki/File:Male_Gal%C3%A1pagos_red-footed_booby.jpg)
 
-All I did is remove the background and retain the birds themselves.
+All I did is remove the background, leaving only the birds themselves.
+
+[Birds are such magnificent creatures](https://arden-chan.party/verse/2022-04-16-Bird.html).
