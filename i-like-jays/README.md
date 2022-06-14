@@ -14,9 +14,9 @@ This file uses the following images:
 - [Canada Jay feeding at nest](https://commons.wikimedia.org/wiki/File:Perisoreus_canadensis_feeding_at_nest.jpg) by Dan Strickland at the English Wikipedia, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons
   - [Wayback Machine version](http://web.archive.org/web/20220614040739/https://commons.wikimedia.org/wiki/File:Perisoreus_canadensis_feeding_at_nest.jpg)
 - [Coastal Blue Jay](https://commons.wikimedia.org/wiki/File:Blue_Jay-27527.jpg) by Ken Thomas, Public domain, via Wikimedia Commons
-  - [Wayback Machine version](web.archive.org/web/20220614051033/https://commons.wikimedia.org/wiki/File:Blue_Jay-27527.jpg)
+  - [Wayback Machine version](https://web.archive.org/web/20220614051033/https://commons.wikimedia.org/wiki/File:Blue_Jay-27527.jpg)
 - [Tufted Jay](https://commons.wikimedia.org/wiki/File:Tufted_Jay.jpg) by Ron Knight from Seaford, East Sussex, United Kingdom, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons
-  - [Wayback Machine version](web.archive.org/web/20220614051330/https://commons.wikimedia.org/wiki/File:Tufted_Jay.jpg)
+  - [Wayback Machine version](https://web.archive.org/web/20220614051330/https://commons.wikimedia.org/wiki/File:Tufted_Jay.jpg)
 - [Black-collared Jay](https://en.wikipedia.org/wiki/File:Cyanolyca_armillata.jpg), https://www.flickr.com/photos/24201429@N04/, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons
   - [Wayback Machine version](http://web.archive.org/web/20220614051558/https://en.wikipedia.org/wiki/File:Cyanolyca_armillata.jpg)
 
