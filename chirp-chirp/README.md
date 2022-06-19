@@ -6,4 +6,4 @@ This file uses the following image:
 
 
 
-All I did is remove the background and retain the bird.
+All I did is remove the background and retain and sharpen the bird.
